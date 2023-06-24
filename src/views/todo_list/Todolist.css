@@ -1,0 +1,23 @@
+.todo-list-container {
+    width: 100%;
+    max-width: 900px;
+}
+
+.task-title-info-container {
+    min-width: 220px;
+}
+
+
+.todo-bg {
+    background-color: #ebebeb;
+}
+
+.todo-bg-2 {
+    background-color: #ffffff;
+}
+
+.tasks-container {
+    min-height: 350px;
+}
+
+

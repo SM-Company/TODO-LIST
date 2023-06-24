@@ -1,0 +1,31 @@
+#root {
+  max-width: 1380px;
+  margin: 0 auto;
+}
+
+ /* Colors */
+
+.sbg-one {
+  background-color: #3074b8;
+}
+.sbg-one-2 {
+  background-color: #f1f1f1;
+}
+
+
+
+/* heights */
+
+.sh-100 {
+  height: 100px;
+}
+
+.sh-200 {
+  height: 100px;
+}
+
+.sh-300 {
+  height: 100px;
+}
+
+
